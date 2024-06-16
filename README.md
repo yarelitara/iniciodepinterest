@@ -7,13 +7,14 @@ Este proyecto es un clon de la interfaz de pinterest, creado puramente con HTML5
 + **Interacciones dinámicas**: Efectos visuales para elementos interactivos como botones y enlaces.
 + **Iconografía y estilos modernos**: Uso de la biblioteca de íconos de Material Design y estilos CSS modernos para una apariencia cool.
 
-  ### Tecnologías Utilizadas
-  + **HTML5:** Para la estructura básica del sitio.
-  + **CSS3:** Para el diseño y estilo, incluyrnfo _flexbox_ para un diseño responsivo y efectos de _haver_.
-  + **Google Icons:** Para iconos personalizados.
+### Tecnologías Utilizadas
++ **HTML5:** Para la estructura básica del sitio.
++ **CSS3:** Para el diseño y estilo, incluyrnfo _flexbox_ para un diseño responsivo y efectos de _haver_.
++ **Google Icons:** Para iconos personalizados.
 
-    ### Vista previa del proyecto
+### Vista previa del proyecto
+![Demo](/imagenes/vistaprevia.png.png)
 
-    ### Contacto
-    Yarel Nadal: [Mi Linkedin] 
+### Contacto
+Yarel Nadal: [Mi Linkedin] 
     
